@@ -2,6 +2,7 @@
   "name": "ton-payment-tracker",
   "type": "module",
   "module": "es2022",
+  "version: "0.0.1",
   "dependencies": {
     "ton": "^12.1.3"
   },
